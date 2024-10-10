@@ -1,4 +1,4 @@
-# caps-left-right
+# ⌨️ caps-left-right
 Auto Hot Key script to remap Capslock + Left / Capslock + Right to Home / End keys.
 Helpful for software developers and keyboard shortcut ninjas 🐱‍👤.
 
